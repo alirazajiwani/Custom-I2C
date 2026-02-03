@@ -80,7 +80,8 @@ Data is transmitted in two consecutive 8-bit transactions:
 - Basic understanding of I2C protocol
 
 ### Simulation
-<img width="979" height="535" alt="image" src="https://github.com/user-attachments/assets/f361be00-ea1e-4381-8280-a63262c62686" />
+<img width="975" height="201" alt="image" src="https://github.com/user-attachments/assets/27881d4c-2661-490e-8d5b-086365721925" />
+
 
 <img width="975" height="192" alt="image" src="https://github.com/user-attachments/assets/a36f04b6-d8d2-4c0d-ab6a-568b9d8eb46d" />
 

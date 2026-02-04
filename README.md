@@ -41,8 +41,9 @@ The system consists of two main components:
 ├──src/
   ├── master.sv          # I2C Master module implementation
   ├── slave.sv           # I2C Slave module implementation
-├──testbenc/
+├──testbench/
   ├── I2C_tb.sv          # Complete verification testbench
+├──Documentation         # Detailed Report of I2C
 └── README.md            # This file
 ```
 

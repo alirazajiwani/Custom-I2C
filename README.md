@@ -80,11 +80,12 @@ Data is transmitted in two consecutive 8-bit transactions:
 - Basic understanding of I2C protocol
 
 ### Simulation
-<img width="975" height="201" alt="image" src="https://github.com/user-attachments/assets/27881d4c-2661-490e-8d5b-086365721925" />
-#### 0x5A3 Read and Write Waveform
 
-<img width="975" height="192" alt="image" src="https://github.com/user-attachments/assets/a36f04b6-d8d2-4c0d-ab6a-568b9d8eb46d" />
+#### 0x5A3 Read and Write Waveform
+<img width="975" height="201" alt="image" src="https://github.com/user-attachments/assets/27881d4c-2661-490e-8d5b-086365721925" />
+
 #### All Test Waveform
+<img width="975" height="192" alt="image" src="https://github.com/user-attachments/assets/a36f04b6-d8d2-4c0d-ab6a-568b9d8eb46d" />
 
 ### Configuration
 
